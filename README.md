@@ -5,4 +5,4 @@
 this project is  a bank account mangaer
 
 # function
--O explla
+- O explla
